@@ -46,3 +46,6 @@ client.print(postStr);
 client.stop();
 Serial.println("Waiting...");
 delay(1000); }}
+gnd=gnd
+vcc=3.3v
+out=d8
